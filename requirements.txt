@@ -1,0 +1,7 @@
+Pillow
+python-dotenv
+discord.py
+Pillow
+fastapi
+uvicorn
+
